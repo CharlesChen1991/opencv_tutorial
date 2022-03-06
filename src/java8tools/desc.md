@@ -1,0 +1,2 @@
+在Mac版本中，由于个人安装，网络上均为最新版本Java的开发依赖jar，故共享Mac版本编译Jar。
+该文件夹存放了Mac版本基于port命令安装了java8版本的opencv jar 供大家方便取用
